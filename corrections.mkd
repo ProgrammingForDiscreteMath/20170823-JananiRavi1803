@@ -1,0 +1,4 @@
+* For #3, common elements, your code does not take care of duplicates
+* One-line docsttring for factorial should be ~~~Return the factorial of ``n``.~~~
+See https://www.python.org/dev/peps/pep-0257/ to understand doscstrings better.
+**Score 30/35 Nice code!**
